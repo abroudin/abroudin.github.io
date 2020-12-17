@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Case study on Alexandre Broudin | Digital Product Designer</title>
+    <link>abroudin.github.io/categories/case-study/</link>
+    <description>Recent content in Case study on Alexandre Broudin | Digital Product Designer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="abroudin.github.io/categories/case-study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji Support 1</title>
+      <link>abroudin.github.io/post/article-2/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>abroudin.github.io/post/article-2/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alex Emoji Support 4</title>
+      <link>abroudin.github.io/post/article-4/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>abroudin.github.io/post/article-4/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alex Emoji Support 4</title>
+      <link>abroudin.github.io/post/article-5/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>abroudin.github.io/post/article-5/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
